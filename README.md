@@ -2,7 +2,7 @@
 
 
 ### 1. My Conclusion Analysis Report - Jupyter Notebook
-* [Porto Seguro’s Safe Driver Analysis](https://UnimportantCoolProfessional.saeyoonyoon.repl.co)
+* [Porto Seguro’s Safe Driver Analysis](https://nbviewer.jupyter.org/github/miedlev/kaggle-Porto-Seguro-s-Safe-Driver-Prediction/blob/main/Porto%20Seguro%E2%80%99s%20Safe%20Driver%20Prediction.ipynb)
 * 
 * [Data Visualization Image](https://github.com/miedlev/kaggle---San-Francisco-Crime-Classfication/tree/main/Image)
 
