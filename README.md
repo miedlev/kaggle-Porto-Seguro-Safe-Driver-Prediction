@@ -7,8 +7,6 @@
 * [Deleted picture 2 in ipynb('ps_calc_01', 'ps_calc_02', 'ps_calc_03')](https://github.com/miedlev/kaggle-Porto-Seguro-Safe-Driver-Prediction/blob/main/scatterplot2.png)
 
 
-Deleted picture 1('ps_reg_01', 'ps_reg_02', 'ps_reg_03')()
-
 
 ### 2. About Data :
 * In this competition, you will predict the probability that an auto insurance policy holder files a claim.
