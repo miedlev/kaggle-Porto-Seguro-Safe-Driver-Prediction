@@ -27,7 +27,7 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 7. Feature engineering(Address, Datetime)
 8. sparse matrix(csr_matrix)
 9. Boosting Model Selection(Catboost)
-0.Metrics - model_selection(Normalized Gini Coefficient)
+10.Metrics - model_selection(Normalized Gini Coefficient)
 
 
 **[Dependencies & Tech]:**
